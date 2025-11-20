@@ -8,8 +8,15 @@ Hi, I'm **Mohan Elapolu**.
 
 I'm interested in:
 
+Professional
+- Computational stuff
+- Digital Engineering
 - AI / ML
-- Research projects
-- Writing and learning in public
+- Virtual Prototyping
 
-This site is where I keep my notes, experiments, and blog posts.
+Personnel
+- Philosophy
+- Cricket
+- Movies
+
+This site is where I keep my experiences, opinions, and reactions....
