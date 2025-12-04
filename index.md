@@ -34,7 +34,8 @@ I specialize in pre- and post-processing large-scale computational data using Py
   </div>
 
   <!-- RIGHT SIDE: PHOTO + ICONS -->
-  <div style="width:230px; text-align:center;">
+  <div style="width:230px; text-align:center; align-self:center;">
+
 
   <!-- PHOTO -->
   <img src="/assets/mohan.jpg" 
