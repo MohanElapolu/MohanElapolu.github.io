@@ -42,7 +42,8 @@ I specialize in pre- and post-processing large-scale computational data using Py
          style="width:200px; border-radius:12px; margin-bottom:12px;">
 
   <!-- ICONS -->
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:30px;">
+
 
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/mohansuryarajaelapolu/" target="_blank">
