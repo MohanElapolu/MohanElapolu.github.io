@@ -16,84 +16,79 @@ nav_exclude: true
 </section>
 
 <!-- ABOUT SECTION -->
-<section id="about" markdown="1">
+<section id="about">
+
+<div style="display:flex; justify-content:space-between; align-items:flex-start;">
+
+  <!-- LEFT SIDE: ABOUT TEXT -->
+  <div style="flex: 1; padding-right:30px;" markdown="1">
 
 ## About Me
-
-<img src="/assets/mohan.jpg" alt="Mohan Elapolu" style="width:180px; border-radius: 12px; float:right; margin-left:20px; margin-bottom:10px;">
-
-<!-- SOCIAL ICON BAR -->
-<div style="margin-top:10px; margin-bottom:20px; display:flex; gap:14px;">
-
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/mohansuryarajaelapolu/" target="_blank" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 24 24" fill="#0077B5">
-      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 
-      2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 
-      19h-3v-10h3v10zm-1.5-11.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 
-      1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 11.268h-3v-5.604c0-3.368-4-3.113-4 
-      0v5.604h-3v-10h3v1.765c1.396-2.586 7-2.777 7 2.476v5.759z"/>
-    </svg>
-  </a>
-
-  <!-- TWITTER / X -->
-  <a href="https://x.com/msrelapolu" target="_blank" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 24 24" fill="black">
-      <path d="M18.244 2h3.314l-7.227 8.26 8.503 11.74h-6.668l-5.111-6.652-5.825 
-      6.652h-3.314l7.73-8.822-8.214-11.178h6.828l4.61 6.084z"/>
-    </svg>
-  </a>
-
-  <!-- GITHUB -->
-  <a href="https://github.com/MohanElapolu" target="_blank" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 16 16" fill="black">
-      <path d="M8 0C3.58 0 0 3.58 0 8c0 
-      3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 
-      0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52
-      0-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 
-      0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 
-      0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 
-      2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 
-      2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 
-      3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 
-      2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 
-      8c0-4.42-3.58-8-8-8z"/>
-    </svg>
-  </a>
-
-  <!-- GOOGLE SCHOLAR -->
-  <a href="https://scholar.google.com/citations?user=79_RjssAAAAJ&hl=en" target="_blank" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 488 512" fill="#4285F4">
-      <path d="M244 48L0 244l244 196 244-196zm0 330l-122-98 122-98 122 98z"/>
-    </svg>
-  </a>
-
-  <!-- EMAIL -->
-  <a href="mailto:mohanelapolu@gmail.com" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 24 24" fill="#D44638">
-      <path d="M12 13.065l-11.2-8.4h22.4zm-12-6.885v12.72l7.68-6.36zm8.64 
-      6.825l-8.64 7.155h21l-8.64-7.155-2.355 1.725zm5.76-.465l7.6 
-      6.315v-12.63z"/>
-    </svg>
-  </a>
-
-  <!-- RESUME ICON -->
-  <a href="/assets/MohanElapolu.pdf" target="_blank" style="text-decoration:none;">
-    <svg height="26" viewBox="0 0 24 24" fill="#555">
-      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 
-      2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm1 
-      7h-6v-2h6zm3-2h-4V3zM9 14h6v2H9zm0 4h4v2H9z"/>
-    </svg>
-  </a>
-
-</div>
-
 
 I am **Mohan Elapolu**, a computational scientist with a deep passion for understanding and predicting physical, chemical, biological, and engineered phenomena. I solve ODE/PDE-based systems using classical numerical methods and modern machine learning tools to build high- and low-fidelity simulations for complex system behavior, design optimization, and intelligent decision-making.
 
 I construct advanced computational tools, including finite element solvers, finite-difference molecular dynamics frameworks, and physics-guided scientific machine learning models designed to run efficiently on high-performance computing environments. I also bring deep expertise in the modern Python and AI/ML stack—including GNNs, Transformers, generative AI (LLMs, RAG, agents), and MLOps practices for scalable deployment and workflow optimization.
 
 I specialize in pre- and post-processing large-scale computational data using Python and scientific computing libraries to extract actionable insights and support data-driven reasoning.
+
+  </div>
+
+  <!-- RIGHT SIDE: PHOTO + ICONS -->
+  <div style="width:230px; text-align:center;">
+
+  <!-- PHOTO -->
+  <img src="/assets/mohan.jpg" 
+         alt="Mohan Elapolu" 
+         style="width:200px; border-radius:12px; margin-bottom:12px;">
+
+  <!-- ICONS -->
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/mohansuryarajaelapolu/" target="_blank">
+        <svg height="26" viewBox="0 0 24 24" fill="#0077B5">
+          <path d="M19 0h-14c-2.761 ..."/>
+        </svg>
+      </a>
+
+  <!-- TWITTER / X -->
+  <a href="https://x.com/msrelapolu" target="_blank">
+        <svg height="26" viewBox="0 0 24 24" fill="black">
+          <path d="M18.244 2h3.314 ..."/>
+        </svg>
+      </a>
+
+  <!-- GITHUB -->
+  <a href="https://github.com/MohanElapolu" target="_blank">
+        <svg height="26" viewBox="0 0 16 16" fill="black">
+          <path d="M8 0C3.58 0 ..."/>
+        </svg>
+      </a>
+
+  <!-- GOOGLE SCHOLAR -->
+  <a href="https://scholar.google.com/citations?user=79_RjssAAAAJ&hl=en" target="_blank">
+        <svg height="26" viewBox="0 0 488 512" fill="#4285F4">
+          <path d="M244 48L0 244 ..."/>
+        </svg>
+      </a>
+
+  <!-- EMAIL -->
+  <a href="mailto: mohanelapolu@gmail.com">
+        <svg height="26" viewBox="0 0 24 24" fill="#D44638">
+          <path d="M12 13.065 ..."/>
+        </svg>
+      </a>
+
+  <!-- RESUME -->
+  <a href="/assets/resume.pdf" target="_blank">
+        <svg height="26" viewBox="0 0 24 24" fill="#555">
+          <path d="M14 2H6a2 ..."/>
+        </svg>
+      </a>
+
+
+</div>
+
 </section>
 
 
