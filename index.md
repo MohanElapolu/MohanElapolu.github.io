@@ -99,16 +99,17 @@ I specialize in pre- and post-processing large-scale computational data using Py
     </svg>
   </a>
 
-  </div>
-   <!-- ICONS -->
-  <div style="display:flex; justify-content:space-between; align-items:center; gap:30px;">
-
   <!-- RESUME -->
   <a href="/assets/resume.pdf" target="_blank">
     <svg width="26" height="26" viewBox="0 0 24 24" fill="#555" xmlns="http://www.w3.org/2000/svg">
       <path d="M14 2H6C4.9 2 4 2.9 4 4V20C4 21.1 4.9 22 6 22H18C19.1 22 20 21.1 20 20V8L14 2ZM13 9V3.5L18.5 9H13ZM8 12H16V14H8V12ZM8 16H14V18H8V16Z"/>
     </svg>
   </a>
+
+
+  </div>
+   <!-- ICONS -->
+  <div style="display:flex; justify-content:space-between; align-items:center; gap:50px;">
 
   <!-- EMAIL -->
   <a href="mailto: mohanelapolu@gmail.com">
