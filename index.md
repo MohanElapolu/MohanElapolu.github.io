@@ -123,7 +123,7 @@ I specialize in pre- and post-processing large-scale computational data using Py
 ## Latest Posts
 
 {% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- [{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}]({{ post.url | relative_url }}) 
 {% endfor %}
 
 [View all posts →](/posts/)
