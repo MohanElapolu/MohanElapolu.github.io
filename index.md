@@ -13,7 +13,7 @@ nav_exclude: true
 
   /* Each major section */
   section {
-    padding: 60px 0;          /* increased vertical rhythm */
+    padding: 35px 0;          /* increased vertical rhythm */
     border-bottom: 1px solid #eee;
     scroll-margin-top: 90px;  /* avoids sticky header overlap */
   }
@@ -21,7 +21,7 @@ nav_exclude: true
   /* Section titles */
   h2 {
     margin-top: 0;
-    margin-bottom: 25px;
+    margin-bottom: 12px;
     font-size: 26px;
     font-weight: 600;
   }
