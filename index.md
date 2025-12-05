@@ -32,6 +32,16 @@ nav_exclude: true
 <!-- EVERYTHING BELOW IS CENTERED -->
 <div class="page-container">
 
+<!-- Posts Section -->
+<section id="home" markdown="1">
+## Latest Posts
+
+{% for post in site.posts limit:5 %}
+- [{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}]({{ post.url | relative_url }}) 
+{% endfor %}
+
+[View all posts →](/posts/)
+</section>
 
 <!-- ABOUT SECTION -->
 <section id="about">
@@ -116,17 +126,6 @@ I specialize in pre- and post-processing large-scale computational data using Py
 
 </div>
 
-</section>
-
-<!-- Posts Section -->
-<section id="home" markdown="1">
-## Latest Posts
-
-{% for post in site.posts limit:5 %}
-- [{{ post.date | date: "%B %d, %Y" }}: {{ post.title }}]({{ post.url | relative_url }}) 
-{% endfor %}
-
-[View all posts →](/posts/)
 </section>
 
 <!-- RESEARCH SECTION -->
