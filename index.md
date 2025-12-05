@@ -184,7 +184,7 @@ I specialize in pre- and post-processing large-scale computational data using Py
 <!-- TAB CONTENT SECTIONS -->
 <div id="t1" class="tab-content active" markdown="1">
 
-## PINNS
+### PINNS
 
 **FiGNNet: A Fracture-informed Graph Transformer-Attention Neural Network for Simulating Crack Propagation**
 
@@ -194,7 +194,7 @@ Modeling fracture in solids remains a significant challenge in computational mec
 
 ---
 
-## Computer Vision
+### Computer Vision
 
 **Machine Learning Algorithms for predicting crack propagation**
 
@@ -231,8 +231,6 @@ A machine learning model is proposed to predict the brittle fracture of polycrys
 
 <div id="t3" class="tab-content" markdown="1">
 
-## Requirement Engineering
-
 **Blockchain Technology for Requirement Traceability**
 
 Requirement engineering (RE), a systematic process of eliciting, defining, analyzing, and managing requirements, is a vital phase in systems engineering. In RE, requirement traceability establishes the relationship between the artifacts and supports requirement validation, change management, and impact analysis. Establishing requirement traceability is challenging, especially in the early stages of a complex system design, as requirements constantly evolve and change. Moreover, the involvement of distributed stakeholders in system development introduces collaboration and trust issues.
@@ -244,9 +242,9 @@ This paper outlines a novel blockchain-based requirement traceability framework 
 
 ---
 
-## Design Optimization
+***Polyominoes for design***
 
-Many computational design methods like generative models and topology optimization find optimal structures for certain requirements by iteratively trying alternatives that may include non-manifolds and without an explicit trace of feasible structures along the search.
+Many computational design methods like generative models and topology optimization find optimal structures for certain requirements by iteratively trying alternatives that may include non-manifolds and without an explicit trace of feasible structures along the search. These methods focus on achieving one solution at a time. We propose a new computational framework that constructs a surrogate dataset of physically realizable designs by finding polyomino structures—neighboring squares with at least one common edge—with breadth-first search of a quadtree. We conduct Finite-Element Analysis (FEA) on each level of the tree to narrow down acceptable structures under a given load condition. Considering that all possible options for filling an n*n grid are 2n*n combinations, we use few heuristics, e.g., ignoring structures with fewer cells than the length of the bounding box, that significantly reduce the search space from trillions to thousands in our case study of an 8*8 grid. Our exhaustive yet tractable dataset of structures evaluated with FEA allows us to not only find a Pareto frontier of compliant structures but also facilitates exploring structures with different topology at the same volume fraction to adapt designs to other requirements such as support structure when additively manufactured. We demonstrate a case for bending load.
 
 [Publication Link](https://doi.org/10.1115/DETC2025-169088)
 
