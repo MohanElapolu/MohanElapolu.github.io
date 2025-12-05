@@ -13,7 +13,7 @@ nav_exclude: true
 
   /* Each major section */
   section {
-    padding: 35px 0;          /* increased vertical rhythm */
+    padding: 25px 0;          /* increased vertical rhythm */
     border-bottom: 1px solid #eee;
     scroll-margin-top: 90px;  /* avoids sticky header overlap */
   }

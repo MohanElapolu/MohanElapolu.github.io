@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello, world"
+date: 2025-11-16
 ---
 
 This is my very first post. I just set up this site using GitHub Pages + Jekyll.
