@@ -4,6 +4,30 @@ title: "Mohan Elapolu"
 nav_exclude: true
 ---
 
+<style>
+  body {
+    scroll-behavior: smooth;
+    font-family: sans-serif;
+    line-height: 1.55;
+  }
+
+  /* Each major section */
+  section {
+    padding: 60px 0;          /* increased vertical rhythm */
+    border-bottom: 1px solid #eee;
+    scroll-margin-top: 90px;  /* avoids sticky header overlap */
+  }
+
+  /* Section titles */
+  h2 {
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-size: 26px;
+    font-weight: 600;
+  }
+
+  </style>
+
 
 <!-- EVERYTHING BELOW IS CENTERED -->
 <div class="page-container">
