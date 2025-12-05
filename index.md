@@ -75,8 +75,7 @@ I specialize in pre- and post-processing large-scale computational data using Py
          style="width:200px; border-radius:12px; margin-bottom:12px;">
 
   <!-- ICONS -->
-  <div style="display:flex; justify-content:space-between; align-items:center; gap:30px;">
-
+  <div style="display:flex; gap:20px; align-items:center;">
 
   <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/mohansuryarajaelapolu/" target="_blank">
@@ -109,7 +108,7 @@ I specialize in pre- and post-processing large-scale computational data using Py
 
   </div>
    <!-- ICONS -->
-  <div style="display:flex; justify-content:space-between; align-items:center; gap:50px;">
+  <div style="display:flex; gap:20px; align-items:center;">
 
   <!-- EMAIL -->
   <a href="mailto: mohanelapolu@gmail.com">
